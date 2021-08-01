@@ -3,7 +3,7 @@ This project converts a Cobalt Strike profile to a functional web.config file to
 
 This is a spiritual counterpart to [cs2modrewrite](https://github.com/threatexpress/cs2modrewrite).
 
-
+---------------------------------------------------
 #### cs2webconfig.py
 Script to generate web.config files for IIS servers based on Cobalt Strike malleable profiles.  
 
