@@ -21,3 +21,5 @@ Template file needed by IIS servers to enable proxying similar to apache2 mod_pr
 #### Final Thoughts
 
 Once redirection is configured and functioning, ensure your C2 servers only allow ingress from the redirector and your trusted IPs (VPN, office ranges, etc).  
+
+For a quick walkthrough on how to use this with Azure Application Services, check out the [wiki](https://github.com/bashexplode/cs2webconfig/wiki/Azure-Web-Application-Service-Usage)!
